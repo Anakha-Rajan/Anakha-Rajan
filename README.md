@@ -123,6 +123,22 @@ Almost every consulting deck contains a market size, and almost none of them can
 
 This engine makes that impossible. `Assumption.__post_init__` raises if the `source` field is blank or if the point value sits outside its own stated range, so an undefended figure cannot ship. The Monte Carlo layer then produces the output that is genuinely worth more than the point estimate: a ranked list telling the client which five numbers to spend their primary-research budget verifying, and which eight to leave alone.
 
+<div align="center">
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/market-sizing-engine/main/outputs/tornado.png" alt="Swing analysis: which assumption moves the answer most" />
+
+<sub><i>Swing analysis: which assumption moves the answer most</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/market-sizing-engine/main/outputs/sam_distribution.png" alt="Monte Carlo: the market size is a range, not a number" />
+
+<sub><i>Monte Carlo: the market size is a range, not a number</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/market-sizing-engine/main/outputs/funnel.png" alt="From urban households to quick-commerce adopters" />
+
+<sub><i>From urban households to quick-commerce adopters</i></sub>
+
+</div>
+
 </details>
 
 <details>
@@ -144,6 +160,22 @@ An NLP pipeline that turns thousands of public reviews across a competitive set 
 The design decision that carries the project is scoping sentiment to the clause rather than the review. *"Designs are very beautiful but the wastage charge was not explained until billing"* is one mildly-negative review to a conventional sentiment model. It is actually a **win on product range and a loss on pricing transparency in the same sentence** — and only the second one is costing the store money.
 
 The second decision is that the taxonomy, not the model, is the product. Eight aspects with surface forms drawn from how customers in this market genuinely write, including code-mixed spellings and category jargon a general-purpose model has never seen. The priority score then weights each gap by how often anyone mentions the aspect at all, because losing badly on something nobody discusses is not a problem — losing narrowly on the most-discussed aspect is.
+
+<div align="center">
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/review-radar/main/outputs/priority.png" alt="Where the focus brand loses, in order of what it costs" />
+
+<sub><i>Where the focus brand loses, in order of what it costs</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/review-radar/main/outputs/sentiment_heatmap.png" alt="Net sentiment across the full competitive set" />
+
+<sub><i>Net sentiment across the full competitive set</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/review-radar/main/outputs/salience_vs_sentiment.png" alt="Talked about a lot and going badly = fix first" />
+
+<sub><i>Talked about a lot and going badly = fix first</i></sub>
+
+</div>
 
 </details>
 
@@ -168,6 +200,22 @@ The missing layer between an SME retailer's transaction data and an actual decis
 Here the headline was a 1.5% miss. The decomposition found that the premium category missed **more on mix than on volume**: footfall held, but customers traded down out of the highest-ticket line while the mid-tier beat its own plan. The business did not lose customers, it lost basket value in one specific category, and partly masked it by discounting less than planned. The three effects sum to total variance exactly, and a test asserts the residual stays under one rupee — because a decomposition that does not reconcile is one nobody should be shown.
 
 The PySpark branch exists so migrating to a chain is a platform change rather than a rewrite. It is deliberately not the default: bringing Spark to a 56,000-row problem would be the wrong engineering decision.
+
+<div align="center">
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/retail-decision-layer/main/outputs/variance_waterfall.png" alt="Budget to actual: which part of the gap is which" />
+
+<sub><i>Budget to actual: which part of the gap is which</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/retail-decision-layer/main/outputs/forecast.png" alt="Aadi collapses, Deepavali carries the year" />
+
+<sub><i>Aadi collapses, Deepavali carries the year</i></sub>
+
+<img width="85%" src="https://raw.githubusercontent.com/Anakha-Rajan/retail-decision-layer/main/outputs/segments.png" alt="Revenue share vs customer share by segment" />
+
+<sub><i>Revenue share vs customer share by segment</i></sub>
+
+</div>
 
 </details>
 
@@ -338,26 +386,6 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 <br/><br/>
 
 <p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakha-Rajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&cache_seconds=86400" /></p>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anakha-Rajan&theme=radical&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" />
-
-</div>
-
----
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anakha-Rajan&theme=react-dark&bg_color=0D1117&color=A78BFA&line=7C3AED&point=C4B5FD&hide_border=true&area=true" />
 
 </div>
 
