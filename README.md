@@ -6,26 +6,17 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MBA-Data%20Analytics-7C3AED?style=for-the-badge&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/B.Eng-Mechanical%20Engineering-6D28D9?style=for-the-badge&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Indo--German-IGCHE%20Dual%20Degree-5B21B6?style=for-the-badge&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/MBA-Data%20Analytics-7C3AED?style=for-the-badge&labelColor=1a0033" /> <img src="https://img.shields.io/badge/B.Eng-Mechanical%20Engineering-6D28D9?style=for-the-badge&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Indo--German-IGCHE%20Dual%20Degree-5B21B6?style=for-the-badge&labelColor=1a0033" /></p>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Coimbatore-Tamil%20Nadu,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Coimbatore-Tamil%20Nadu,%20India-4C1D95?style=for-the-badge&logo=googlemaps&logoColor=A78BFA&labelColor=1a0033" /></p>
 
 <br/><br/>
 
-
-<a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a>
-<a href="mailto:anakharajan1999@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033" /></a>
-<a href="https://github.com/Anakha-Rajan"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a>
+<p><a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a> <a href="mailto:anakharajan1999@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-5B21B6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033" /></a> <a href="https://github.com/Anakha-Rajan"><img src="https://img.shields.io/badge/GitHub-Follow-4C1D95?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a></p>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Anakha-Rajan&label=Profile%20Views&color=7c3aed&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Anakha-Rajan?label=Followers&style=flat-square&color=7c3aed&labelColor=1a0033" />
-<img src="https://img.shields.io/github/stars/Anakha-Rajan?label=Total%20Stars&style=flat-square&color=7c3aed&labelColor=1a0033" />
+<p><img src="https://komarev.com/ghpvc/?username=Anakha-Rajan&label=Profile%20Views&color=7c3aed&style=flat-square" /> <img src="https://img.shields.io/github/followers/Anakha-Rajan?label=Followers&style=flat-square&color=7c3aed&labelColor=1a0033" /> <img src="https://img.shields.io/github/stars/Anakha-Rajan?label=Total%20Stars&style=flat-square&color=7c3aed&labelColor=1a0033" /></p>
 
 </div>
 
@@ -35,7 +26,7 @@
 
 I am a **Mechanical Engineer with an MBA in Data Analytics** — a combination that sits at the intersection of structured engineering thinking and commercial decision-making. My training began with tolerances, load paths and manufacturing systems in Germany; it now goes into market models, data pipelines and the question of what a number actually licenses a business to do.
 
-I work as a **market research consultant**, where I have delivered **15+ client engagements** across jewellery retail, textiles, packaged foods, industrial components, logistics and real-estate feasibility. That work is where I learned the part analytics courses do not teach: a finding is worthless until someone can act on it, and a number is worthless until someone can challenge it and lose.
+I have worked as a **market research consultant**, delivering **15+ client engagements** across jewellery retail, textiles, packaged foods, industrial components, logistics and real-estate feasibility. That work is where I learned the part analytics courses do not teach: a finding is worthless until someone can act on it, and a number is worthless until someone can challenge it and lose.
 
 **What I actually do:**
 
@@ -51,12 +42,7 @@ My differentiator is not that I can run a model. It is that I have sat across a 
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Data%20Analyst-Open-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Business%20Analyst-Open-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Analytics%20Consultant-Open-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Sector%20Analyst-Open-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Business%20Intelligence-Open-5B21B6?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/FP%26A%20Analyst-Open-5B21B6?style=flat-square&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Data%20Analyst-Open-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Business%20Analyst-Open-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Analytics%20Consultant-Open-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Sector%20Analyst-Open-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Business%20Intelligence-Open-5B21B6?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/FP%26A%20Analyst-Open-5B21B6?style=flat-square&labelColor=1a0033" /></p>
 
 </div>
 
@@ -68,45 +54,31 @@ My differentiator is not that I can run a model. It is that I have sat across a 
 
 ### Languages & Query
 
-<img src="https://skillicons.dev/icons?i=python,mysql,r&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/SQL-Advanced-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Python-Advanced-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/DAX-Intermediate-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/VB.NET-Applied-5B21B6?style=flat-square&labelColor=1a0033" />
+<p><img src="https://skillicons.dev/icons?i=python,mysql,r&theme=dark" /></p>
+
+<p><img src="https://img.shields.io/badge/SQL-Advanced-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Python-Advanced-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/DAX-Intermediate-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/VB.NET-Applied-5B21B6?style=flat-square&labelColor=1a0033" /></p>
 
 <br/>
 
 ### Analytics & Business Intelligence
 
-<img src="https://img.shields.io/badge/Power%20BI-Advanced-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Tableau-Working-6D28D9?style=for-the-badge&logo=tableau&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Excel-Advanced-5B21B6?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Streamlit-Deployment-4C1D95?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Power%20BI-Advanced-7C3AED?style=for-the-badge&logo=powerbi&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Tableau-Working-6D28D9?style=for-the-badge&logo=tableau&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Excel-Advanced-5B21B6?style=for-the-badge&logo=microsoftexcel&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Streamlit-Deployment-4C1D95?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></p>
 
 <br/>
 
 ### Data, ML & Libraries
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Pandas-Advanced-7C3AED?style=flat-square&logo=pandas&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/NumPy-Advanced-7C3AED?style=flat-square&logo=numpy&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Scikit--learn-Applied-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Matplotlib-Advanced-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/NLP-Applied-5B21B6?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/LangChain-Applied-5B21B6?style=flat-square&logo=langchain&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/PySpark-Learning-4C1D95?style=flat-square&logo=apachespark&logoColor=white&labelColor=1a0033" />
+<p><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" /></p>
+
+<p><img src="https://img.shields.io/badge/Pandas-Advanced-7C3AED?style=flat-square&logo=pandas&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/NumPy-Advanced-7C3AED?style=flat-square&logo=numpy&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Scikit--learn-Applied-6D28D9?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Matplotlib-Advanced-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/NLP-Applied-5B21B6?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/LangChain-Applied-5B21B6?style=flat-square&logo=langchain&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/PySpark-Learning-4C1D95?style=flat-square&logo=apachespark&logoColor=white&labelColor=1a0033" /></p>
 
 <br/>
 
 ### Engineering, Tooling & Delivery
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask,sqlite&theme=dark" />
-<br/>
-<img src="https://img.shields.io/badge/Siemens%20NX-CAD%20Automation-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Jupyter-Daily-6D28D9?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Pytest-Testing-5B21B6?style=flat-square&logo=pytest&logoColor=white&labelColor=1a0033" />
+<p><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,flask,sqlite&theme=dark" /></p>
+
+<p><img src="https://img.shields.io/badge/Siemens%20NX-CAD%20Automation-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Jupyter-Daily-6D28D9?style=flat-square&logo=jupyter&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Pytest-Testing-5B21B6?style=flat-square&logo=pytest&logoColor=white&labelColor=1a0033" /></p>
 
 </div>
 
@@ -264,9 +236,9 @@ This is where the analytics instinct started. Automating a CAD workflow is the s
 ## Experience
 
 ### Market Research Consultant · Studio Forge
-`2025 — Present` · Coimbatore, Tamil Nadu
+`Jun 2026 — Aug 2026` · Coimbatore, Tamil Nadu
 
-Lead analyst on end-to-end market research and strategic advisory engagements for founders and SME clients, owning each project from data collection through to the recommendation the client acts on.
+Traineeship as lead analyst on end-to-end market research and strategic advisory engagements for founders and SME clients, owning each project from data collection through to the recommendation the client acted on.
 
 **Scope of work**
 
@@ -276,11 +248,7 @@ Lead analyst on end-to-end market research and strategic advisory engagements fo
 - Produced P&L models, break-even analysis, unit economics and go-to-market roadmaps as board-ready deliverables
 - Held a standard of zero unverified figures in client-facing work, correcting source data errors before they reached the report
 
-<img src="https://img.shields.io/badge/Market%20Research-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Competitive%20Benchmarking-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Financial%20Modelling-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Pricing%20Strategy-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Data%20Storytelling-5B21B6?style=flat-square&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Market%20Research-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Competitive%20Benchmarking-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Financial%20Modelling-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Pricing%20Strategy-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Data%20Storytelling-5B21B6?style=flat-square&labelColor=1a0033" /></p>
 
 <br/>
 
@@ -296,11 +264,7 @@ Built business intelligence and AI-driven automation capability across operation
 - Designed ETL processes and data validation logic supporting recurring reporting cycles
 - Translated technical output into business narratives for non-technical decision-makers
 
-<img src="https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/NLP-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/TensorFlow-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/ETL-5B21B6?style=flat-square&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Power%20BI-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Python-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/NLP-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/TensorFlow-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/ETL-5B21B6?style=flat-square&labelColor=1a0033" /></p>
 
 <br/>
 
@@ -315,10 +279,7 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 - Collaborated across a cross-functional, multinational R&D team in a German-language working environment
 - Applied structured problem-solving to ambiguous, unscoped engineering problems
 
-<img src="https://img.shields.io/badge/VB.NET-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Siemens%20NX-7C3AED?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Process%20Automation-6D28D9?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/R%26D-5B21B6?style=flat-square&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/VB.NET-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Siemens%20NX-7C3AED?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Process%20Automation-6D28D9?style=flat-square&labelColor=1a0033" /> <img src="https://img.shields.io/badge/R%26D-5B21B6?style=flat-square&labelColor=1a0033" /></p>
 
 ---
 
@@ -346,17 +307,13 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 
 ### Google
 
-<img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-7C3AED?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0033" />
-<br/>
-<img src="https://img.shields.io/badge/Google-Business%20Intelligence%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-7C3AED?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0033" /> <img src="https://img.shields.io/badge/Google-Business%20Intelligence%20Certificate-6D28D9?style=for-the-badge&logo=google&logoColor=white&labelColor=1a0033" /></p>
 
 <br/><br/>
 
 ### Academic & Scholarships
 
-<img src="https://img.shields.io/badge/Mahatma%20Gandhi-Merit%20Scholarship-5B21B6?style=for-the-badge&labelColor=1a0033" />
-<br/>
-<img src="https://img.shields.io/badge/IGCHE-Indo--German%20Dual%20Degree-4C1D95?style=for-the-badge&labelColor=1a0033" />
+<p><img src="https://img.shields.io/badge/Mahatma%20Gandhi-Merit%20Scholarship-5B21B6?style=for-the-badge&labelColor=1a0033" /> <img src="https://img.shields.io/badge/IGCHE-Indo--German%20Dual%20Degree-4C1D95?style=for-the-badge&labelColor=1a0033" /></p>
 
 </div>
 
@@ -366,19 +323,7 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 
 <div align="center">
 
-<a href="https://YOUR-STREAMLIT-URL-1"><img src="https://img.shields.io/badge/Market%20Sizing%20Engine-Live%20Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a>
-
-<br/>
-
-<a href="https://YOUR-STREAMLIT-URL-2"><img src="https://img.shields.io/badge/Review%20Radar-Live%20Demo-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a>
-
-<br/>
-
-<a href="https://github.com/Anakha-Rajan/retail-decision-layer"><img src="https://img.shields.io/badge/Retail%20Decision%20Layer-Repository-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a>
-
-<br/>
-
-<a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Full%20Profile-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a>
+<p><a href="YOUR-STREAMLIT-URL-1"><img src="https://img.shields.io/badge/Market%20Sizing%20Engine-Live%20Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="YOUR-STREAMLIT-URL-2"><img src="https://img.shields.io/badge/Review%20Radar-Live%20Demo-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="https://github.com/Anakha-Rajan/retail-decision-layer"><img src="https://img.shields.io/badge/Retail%20Decision%20Layer-Repository-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a> <a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Full%20Profile-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a></p>
 
 </div>
 
@@ -388,12 +333,11 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anakha-Rajan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anakha-Rajan&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" />
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anakha-Rajan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anakha-Rajan&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" /></p>
 
 <br/><br/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakha-Rajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" />
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakha-Rajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" /></p>
 
 </div>
 
@@ -472,10 +416,7 @@ philosophy: >
 
 <div align="center">
 
-<a href="mailto:anakharajan1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033" /></a>
-<a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a>
-<a href="https://github.com/Anakha-Rajan"><img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a>
-
+<p><a href="mailto:anakharajan1999@gmail.com"><img src="https://img.shields.io/badge/Gmail-anakharajan1999-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a0033" /></a> <a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a> <a href="https://github.com/Anakha-Rajan"><img src="https://img.shields.io/badge/GitHub-Follow-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a></p>
 
 </div>
 
