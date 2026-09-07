@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1a0033,50:4c1d95,100:7c3aed&text=Anakha%20Rajan&fontColor=ffffff&fontSize=52&fontAlignY=32&desc=Mechanical%20Engineer%20turned%20Data%20Analyst&descAlignY=52&descSize=18&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=760&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Market+Research;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Machine+Learning;An+engineer+who+fell+in+love+with+the+question+why;Turning+messy+data+into+decisions+leaders+can+defend" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+Business+Intelligence+%7C+Market+Research;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Machine+Learning;An+engineer+who+fell+in+love+with+the+question+why;Turning+messy+data+into+decisions+leaders+can+defend" alt="Typing SVG" />
 
 <br/>
 
@@ -323,7 +323,7 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 
 <div align="center">
 
-<p><a href="market-sizing-engine-2cqd2csbyudpnmn8qffh3p .streamlit.app"><img src="https://img.shields.io/badge/Market%20Sizing%20Engine-Live%20Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="review-radar-qthfhqwryyfbfpgpthlhml .streamlit.app"><img src="https://img.shields.io/badge/Review%20Radar-Live%20Demo-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="https://github.com/Anakha-Rajan/retail-decision-layer"><img src="https://img.shields.io/badge/Retail%20Decision%20Layer-Repository-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a> <a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Full%20Profile-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a></p>
+<p><a href="YOUR-STREAMLIT-URL-1"><img src="https://img.shields.io/badge/Market%20Sizing%20Engine-Live%20Demo-7C3AED?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="YOUR-STREAMLIT-URL-2"><img src="https://img.shields.io/badge/Review%20Radar-Live%20Demo-6D28D9?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=1a0033" /></a> <a href="https://github.com/Anakha-Rajan/retail-decision-layer"><img src="https://img.shields.io/badge/Retail%20Decision%20Layer-Repository-5B21B6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0033" /></a> <a href="https://linkedin.com/in/anakha-rajan-74685a207"><img src="https://img.shields.io/badge/LinkedIn-Full%20Profile-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a0033" /></a></p>
 
 </div>
 
@@ -333,11 +333,11 @@ Worked inside a global R&D division on digital manufacturing tooling and enginee
 
 <div align="center">
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anakha-Rajan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anakha-Rajan&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anakha-Rajan&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=86400" /> <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Anakha-Rajan&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" /></p>
 
 <br/><br/>
 
-<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakha-Rajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" /></p>
+<p><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anakha-Rajan&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8&cache_seconds=86400" /></p>
 
 </div>
 
